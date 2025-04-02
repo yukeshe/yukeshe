@@ -1,5 +1,1 @@
-blog.yukesh-elayappan.site
-Host: blog
-Type: CNAME
-TTL: 300 
-Value: yukeshe.github.io
+www.blog.yukesh-elayappan.site
